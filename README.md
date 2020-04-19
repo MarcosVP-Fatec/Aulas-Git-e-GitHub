@@ -1,2 +1,2 @@
-# Aulas Git e GitHub
- Guardar exemplos da aula de Git e GitHub
+# Aulas Git e GitHub - Gustavo Guanabara
+ Guardar exemplos da aula de Git e GitHub.
